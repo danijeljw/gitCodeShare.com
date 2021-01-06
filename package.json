@@ -71,7 +71,7 @@
     "@zeit/next-sass": "^1.0.1",
     "@zeit/next-typescript": "^1.1.1",
     "antd": "^3.10.9",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.3",
     "cache-manager": "^2.9.0",
     "codemirror": "^5.42.0",
